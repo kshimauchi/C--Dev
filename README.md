@@ -25,9 +25,9 @@
 #### Create a Console Application
 * *Create simple console Application*
 * *dotnet new <TemplateType>*
-* ..**console*
-* ..**webapi*
-* ..**gitignore*
-* *<App Name> or --name <App Name>*
-* *<Output Directory> or --output <Output Directory>*
-* *-lang "<Language>" or --language "<language>*
+ ..**console*
+ ..**webapi*
+ ..**gitignore*
+* *-n "<App Name>" or --name "<App Name>"*
+* *-o "<Output Directory>" or --output "<Output Directory>"*
+* *-lang "<Language>" or --language "<language>"*
