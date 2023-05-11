@@ -1,4 +1,19 @@
 ### *CSharp Developement Review*
 
-# *CSharp Syntax.*<br>
+#### *CSharp Syntax.*<br>
 
+#### C# Basic Concepts
+* Console.WriteLine()
+* Variables
+* Operators
+* Conditional Statements
+* Loops
+* Methods
+* Scope
+
+#### C# Intermediate Concepts
+
+* Models
+* NameSpaces
+* Database Connections
+* Config
