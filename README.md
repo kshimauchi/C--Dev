@@ -3,17 +3,22 @@
 #### *CSharp Syntax.*<br>
 
 #### C# Basic Concepts
-* Console.WriteLine()
-* Variables
-* Operators
-* Conditional Statements
-* Loops
-* Methods
-* Scope
+* *Console.WriteLine()*
+* *Variables*
+* *Operators*
+* *Conditional Statements*
+* *Loops*
+* *Methods*
+* *Scope*
 
 #### C# Intermediate Concepts
 
-* Models
-* NameSpaces
-* Database Connections
-* Config
+* *Models*
+* *NameSpaces*
+* *Database Connections*
+* *Config*
+* *Read/Write IO*
+* *Parsing JSON*
+* *Simple Model Mapping*
+
+#### C# 
