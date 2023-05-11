@@ -31,3 +31,25 @@
 * -n "\<App Name>\" or --name "\<App Name>\"
 * -o "\<Output Directory>\" or --output "\<Output Directory>\"
 * -lang "\<Language>\" or --language "\<language>\"
+
+#### Variables
+* *Stored data with a name and address*
+* *Different Types*
+* *Numeric*
+* *Text(String)*
+* *bool*
+* *byte*
+* *sbyte*
+* *char*
+* *decimal*
+* *float*
+* *int*
+* *unit*
+* *nint*
+* *long*
+* *ulong*
+* *short*
+* *ushort*
+* *Object*
+* *string*
+* *dynamic*
