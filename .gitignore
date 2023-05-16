@@ -264,3 +264,8 @@ FakesAssemblies/
 
 # test github .gitignore
 *.json
+
+# desktop ini 
+desktop.ini
+**/desktop.ini
+**/*/desktop.ini

@@ -32,7 +32,7 @@
 * -o "\<Output Directory>\" or --output "\<Output Directory>\"
 * -lang "\<Language>\" or --language "\<language>\"
 
-#### Variables
+#### Variables 
 * *Stored data with a name and address*
 * *Different Types*
 * *Numeric*
@@ -53,3 +53,18 @@
 * *Object*
 * *string*
 * *dynamic*
+
+#### Variables
+* *Numeric*
+* *Text*
+* *List*
+* *Lookup*
+
+#### Operators
+* *Mathematical*
+* *Comparison*
+
+#### Note there are no wrapper types for primitive types in C#
+
+* *Java: int -> Integer
+* *C#: int-> System.Int32
